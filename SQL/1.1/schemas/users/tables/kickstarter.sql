@@ -1,0 +1,1 @@
+ALTER TABLE users.kickstarter ADD COLUMN phone_number VARCHAR(100) NULL DEFAULT NULL;

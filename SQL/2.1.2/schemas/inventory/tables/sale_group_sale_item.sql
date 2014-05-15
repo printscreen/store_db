@@ -1,0 +1,1 @@
+ALTER TABLE inventory.sale_group_sale_item ADD COLUMN order_number BIGINT NULL DEFAULT NULL;

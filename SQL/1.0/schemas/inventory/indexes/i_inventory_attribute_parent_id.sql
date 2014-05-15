@@ -1,0 +1,1 @@
+CREATE INDEX inventory_attribute_parent_id ON inventory.attribute (parent_id);

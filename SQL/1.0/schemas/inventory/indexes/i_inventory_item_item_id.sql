@@ -1,0 +1,1 @@
+CREATE INDEX inventory_item_attribute_item_id ON inventory.item_attribute (item_id);

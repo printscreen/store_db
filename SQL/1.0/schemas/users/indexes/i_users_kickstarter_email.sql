@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX users_kickstarter_email ON users.kickstarter (email);
